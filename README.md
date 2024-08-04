@@ -1,3 +1,16 @@
-# Hotel-Management-_System
-The mission is to facilitate easy management and administration of a hotel with capabilities to do Booking or reservations of the rooms, Cancellation of the rooms, Cash billing, Room service, Restaurant service, Restaurant Billing, Total Billing, Travels arrangement etc. using the automated hotel management software. One can Keep detailed records or info on an unlimited amount of customers. The system lets the user Know which all rooms are available for occupancy at any point of time. This makes the Booking considerably faster. And thus helps the hotel in better management and reduce a lot of paper work as well as manpower.
-his Project on Hotel Management is a general software developed (using Python) to simplify hotel operations by automating them. In this project. It covers major aspects of hotel management; it could perform the following operations- Hotel Booking, Provide you with Hotel Rooms Info, Room Service, Billing and Record-Keeping.
+<h1 align="center">Hi 👋, I'm Tungena Sai Praneesha</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+- 🔭 I’m currently working on **HOTELMANAGEMENTSYSTEM**
+
+- 🌱 I’m currently learning **c#,Python,Java**
+
+- 👯 I’m looking to collaborate on **Hospital Management**
+
+- 📫 How to reach me **tungenasaipraneesha@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
