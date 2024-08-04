@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Hospital Management**
 
-- 📫 How to reach me **tungenasaipraneesha@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/saipraneesha-tungena-551a0126a**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
